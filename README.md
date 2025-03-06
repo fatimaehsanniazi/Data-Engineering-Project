@@ -22,7 +22,7 @@ This project processes and analyzes Tokyo Olympics data using **Azure Data Facto
 - **SQL** – Querying transformed data
 
 ## Project Files
-- **`data_ingestion/`**: ADF pipeline JSONs (Copy Activity, Linked Services, Datasets)
-- **`transformation/`**: Databricks notebooks & PySpark scripts
-- **`sql_queries/`**: SQL queries for medal & performance analysis
+- **`data-ingestion/`**: ADF pipeline JSONs (Copy Activity, Linked Services, Datasets)
+- **`Tokyo Olympic Transformation/`**: Databricks notebooks & PySpark scripts
+- **`SQLQueries/`**: SQL queries for medal & performance analysis
 
